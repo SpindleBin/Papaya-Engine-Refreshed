@@ -1,5 +1,5 @@
 ## Credits
-- SpinningBin (Programmer)
+- SpindleBin (Programmer)
 - ReakSteP (Icon Artist)
 
 Credit to the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) Team for the waveform code used within the Chart Editor.

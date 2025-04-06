@@ -24,7 +24,7 @@ class Main extends Sprite
 		};
 
 		// Please keep the Engine name somewhere as credit if you change this, thanks!
-		Application.current.window.title = Application.current.window.title + ' - Papaya Engine';
+		Application.current.window.title = Application.current.window.title + ' - Papaya Engine Refreshed';
 
 		super();
 

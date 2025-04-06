@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin'" file="Funkin" packageName="com.SpinningBin.papaya" main="Main" version="1.0.0" company="SpinningBin" />
+	<app title="Friday Night Funkin'" file="Funkin" packageName="com.SpindleBin.papaya" main="Main" version="1.0.0" company="SpindleBin" />
 
 	<!--The flixel preloader is not accurate in Chrome. You can use it regularly if you embed the swf into a html file
 		or you can set the actual size of your file manually at "FlxPreloaderBase-onUpdate-bytesTotal"-->

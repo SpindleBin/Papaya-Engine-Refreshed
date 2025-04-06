@@ -1,19 +1,18 @@
-# FNF-Papaya-Engine
-A Friday Night Funkin' Engine made for hardcoded modifications. Created for the KAVIFUNK Mod to use as a base.
+#  Papaya Engine Refreshed
+Papaya Engine Refreshed is a Friday Night Funkin' Engine made for hardcoded modifications. Created for the KAVIFUNK Mod to use as a base.
 
-This is recovered.
-
-Please open source any modifications you make to the Engine/Game!
+Please open source any modifications you make! Not doing so is not cool, especially since malware can always be passed around in hardcoded mods!
 
 ## What is this engine for?
-This engine was made as a quick-start for Hard-modded modifications to Friday Night Funkin'. This way, you don't have to use the base game or another FNF Engine and be forced
+This engine was made as a quick-start for hardcoded modifications to Friday Night Funkin'. This way, you don't have to use the base game or another FNF Engine and be forced
 to either fix up the base game, or remove bloat from the other Engines.
 
 ### How do I use the engine?
-This Engine is NOT made for Soft-modding. It is purely for hardcoded modifications to the source code. Now, here's how to use it.
+This Engine is NOT made for soft-modding. It is purely for hardcoded modifications to the source code. Now, here's how to use it.
 
-- Fork the Repository
-- Use GitHub Desktop or Git to clone the Repo to your device
+- Select "Use this template" beside the name of the repository.
+- Create a new repository using the template.
+- Use GitHub Desktop or Git to clone your repository to your device
 - Follow this [Guide](build.md).
 - Open the Repo in VS:Code and begin modding!
 
@@ -21,19 +20,15 @@ This Engine is NOT made for Soft-modding. It is purely for hardcoded modificatio
 Hell yeah you can, just make sure all contributions are made to the Dev branch.
 
 ## Support
-N/A
+Discord Server coming soon!
 
 ## Q & A
+### What do you mean "refreshed"? Where's the original Papaya Engine?
+Due to me accidentally losing the original repository, and not having the code locally saved on my computer, I had to recover the entire Engine from another unfinished mod I was using with the engine. Luckily, the engine was recoverable.
 ### Can I use this as a base for my own FNF Engine?
-I can't stop you, but I'd prefer not. I do plan on making a version of this Engine called "Fruitbowl Engine" that implements Soft-modding into Papaya Engine.
+I can't stop you, but I'd prefer not. I do plan on making a version of this Engine called "Fruitbowl Engine" that implements soft-modding into Papaya Engine.
 ### Can I use this for my mod?
 Yes. Not like I'd be able to stop you if I said no, and why would I say no?
-### Do you have any tools to help me get started?
-Sort of! [Papaya Tools](https://github.com/SpunBlue/Papaya-Tools) lets you convert Psych Engine charts to Papaya Engine, and even the other way around!
-### What happened to Sublime Engine, Blueberry Engine, and Blackberry Engine? And why are they all named after fruits?
-We don't talk about those... but seriously, they were programmed badly and lazily, and were made for softmodding. This is not.
-### Why isn't this a fork of the official FNF Repo?
-Because it doesn't let me fork a repo I already have a fork of, and I'm not moving it to an organization like I did with Sublime Engine.
 
 ## Credits
 Click on [this](credits.md) to view the Credits for the Engine.

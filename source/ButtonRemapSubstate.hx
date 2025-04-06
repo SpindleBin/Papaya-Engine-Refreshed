@@ -30,7 +30,7 @@ class ButtonRemapSubstate extends MusicBeatSubstate
 	var hitAKey:Alphabet;
 
 	public function new() {
-		realCam = new FlxCamera(Math.round(FlxG.width / 4), Math.round(FlxG.height / 4));
+		realCam = new FlxCamera(Math.round(FlxG.width / 4), Math.round(FlxG.height / 8));
 		realCam.bgColor =  FlxColor.TRANSPARENT;
 
 		FlxG.cameras.add(realCam, false);

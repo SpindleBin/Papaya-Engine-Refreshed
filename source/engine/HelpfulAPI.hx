@@ -5,7 +5,8 @@ import flixel.FlxG;
 using StringTools;
 
 /**
- * An API designed for custom states to load songs, or assist in any other given way.
+ * This shit is not an API, why did I call it that??
+ * Designed to make doing things easier.
  */
 class HelpfulAPI {
     public static function getDifficultyIndex(difficulty:String) {
